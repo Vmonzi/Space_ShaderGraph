@@ -952,7 +952,7 @@
         "m_GuidSerialized": "fa2c7bdc-4177-451c-8bb6-84ccfa9b4c6c"
     },
     "m_Name": "Distance",
-    "m_DefaultReferenceName": "",
+    "m_DefaultReferenceName": "Vector1_c99a6fb781b24badaa048cbbc38d6fe1",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
@@ -1109,7 +1109,7 @@
         "m_GuidSerialized": "ae05fabc-b281-418f-8d3e-6b8dff34f3dc"
     },
     "m_Name": "DeepFallOff",
-    "m_DefaultReferenceName": "",
+    "m_DefaultReferenceName": "Vector1_dedc7677e4b34bb3bc14471ef3f72880",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_Precision": 0,
